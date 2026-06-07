@@ -1,0 +1,6 @@
+{
+  "name": "India Fresher Job Finder",
+  "description": "An interactive, location-based job search portal tailored for freshers in India to scan local companies, MNCs, and startups using Google Maps and draft custom recruiter pitches using Gemini.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
